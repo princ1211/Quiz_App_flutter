@@ -1,6 +1,6 @@
-# bosschallenge
+# Quiz_App
 
-A new Flutter application.
+A new flutter app that gives random question along with showing the scorecard.
 
 ## Getting Started
 
